@@ -1,6 +1,6 @@
 # 🌐 Website Template
 
-![Website Preview](assets/img/Screenshot 2025-03-06 004817.png)
+![Website Preview](https://github.com/AHMAD-JX/Website-Template/blob/88c33cd69b18b9c009f088f0725487fad84cb0a7/assets/img/Screenshot%202025-03-06%20004817.png)
 
 This is a **fully customizable and modern website template** that anyone can **download, modify, and use** for their projects. It is built using the latest web technologies and follows a clean and professional design structure.
 
