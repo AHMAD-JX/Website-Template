@@ -42,7 +42,7 @@
   });
 
   /**
-   * Toggle mobile nav dropdowns
+   * Toggle mobile nav dropdowns dropdowns dropdowns 
    */
   document.querySelectorAll('.navmenu .toggle-dropdown').forEach(navmenu => {
     navmenu.addEventListener('click', function(e) {
@@ -54,6 +54,7 @@
   });
 
   /**
+   * Scroll top button
    * Scroll top button
    */
   let scrollTop = document.querySelector('.scroll-top');
