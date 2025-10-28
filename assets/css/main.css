@@ -104,6 +104,7 @@ h6 {
 
 .php-email-form .loading {
   display: none;
+  display: none;
   background: var(--surface-color);
   text-align: center;
   padding: 15px;
